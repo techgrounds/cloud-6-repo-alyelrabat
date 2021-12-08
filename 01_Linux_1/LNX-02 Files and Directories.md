@@ -1,6 +1,6 @@
-# Files and directories
+# Files en Directories
 
-Linux gebruikt files and folders, net zo als je gewend bent met elk ander OS. 
+Linux gebruikt files en folders, net zo als je gewend bent met elk ander OS. 
 Folders in Linux heten directories, gebruik dat woord "dir" als je zoekt voor commands of informatie.
 Waneer je terminal opent, begin je vanuit je home directory. 
 Vanuit de home directory kan je naar elke directorie navigeren met een paar commands.
@@ -25,8 +25,8 @@ Bijvoorbeeld als je naar de map "techgrounds" wil gaan, dan kan je het volgende 
 Vind je huidige working directory.
 Maak een lijst van alle files en directories in je home directory. Je hoort bijvoorbeeld directories te zien als ‘Desktop’, ‘Public’ and ‘Pictures’.
 In je home directory, maak je een nieuwe directory genaamd ‘techgrounds’.
-Binnen de techgrounds directory, maak je file met inhoudelijke text.
-Move around your directory tree using both absolute and relative paths.
+Binnen de techgrounds directory, maak je een nieuwe file met inhoudelijke text.
+Navigeer door de directory tree door middel van absolute en relative paths.
 
 ## Gebruikte bronnen
 
@@ -46,7 +46,7 @@ Terminal Commands Lesson 04 - Editing Text Files - echo, cat, nano, vi.
 https://www.youtube.com/watch?v=s2bsE7MJTQg
 
 ## Ervaren problemen
-Omdat ik nog onervaren ben in linux zorgen absolute en relative paths navigaties voor kleine verdwalingen.
+Omdat ik nog onervaren ben in linux zorgen absolute en relative paths navigaties voor kleine verdwalingen en errors.
 
 ## Resultaat
 De opdracht is goed gelukt zie screenshot
