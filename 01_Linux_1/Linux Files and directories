@@ -21,11 +21,23 @@ commando cd (change directory) is om van directory te veranderen. Bij het comman
 Bijvoorbeeld als je naar de map "techgrounds" wil gaan, dan kan je het volgende commando gebruiken: cd techgrounds
 
 ## Opdracht
+
+Vind je huidige working directory.
+Maak een lijst van alle files en directories in je home directory. Je hoort bijvoorbeeld directories te zien als ‘Desktop’, ‘Public’ and ‘Pictures’.
+In je home directory, maak je een nieuwe directory genaamd ‘techgrounds’.
+Binnen de techgrounds directory, maak je file met inhoudelijke text.
+Move around your directory tree using both absolute and relative paths.
+
 ### Gebruikte bronnen
-[Plaats hier de bronnen die je hebt gebruikt.]
+
+What is GitHub? https://www.youtube.com/watch?v=w3jLJU7DT5E
+Absolute and Relative Pathnames in UNIX. https://www.geeksforgeeks.org/absolute-relative-pathnames-unix/
+Linux voor beginners/De terminal. https://nl.wikibooks.org/wiki/Linux_voor_beginners/De_terminal
+Linux Terminal commands and navigation for Beginners -Part1. https://www.youtube.com/watch?v=AO0jzD1hpXc
+Terminal Commands Lesson 04 - Editing Text Files - echo, cat, nano, vi. https://www.youtube.com/watch?v=s2bsE7MJTQg
 
 ### Ervaren problemen
-[Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
+Omdat ik nog onervaren ben in linux zorgen absolute en relative paths navigaties voor kleine verdwalingen.
 
 ### Resultaat
-[Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
+De opdracht is goed gelukt zie screenshot
