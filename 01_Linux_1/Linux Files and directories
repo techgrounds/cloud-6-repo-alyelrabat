@@ -1,0 +1,31 @@
+#Files and directories
+
+Linux gebruikt files and folders, net zo als je gewend bent met elk ander OS. 
+Folders in Linux heten directories, gebruik dat woord "dir" als je zoekt voor commands of informatie.
+Waneer je terminal opent, begin je vanuit je home directory. 
+Vanuit de home directory kan je naar elke directorie navigeren met een paar commands.
+De Linux file structuur begint vanaf de root directory, aangeduid met slash (/). 
+Alle files en directories in Linux zijn vertegenwooridigd door hun path, beginnend vanaf de root.
+De tilde (~) is te gebruiken als alias voor home directory.
+
+##belangrijke termen met korte uitleg.
+
+commando ls (list). ls dient om de inhoud van de huidige map weer te geven.
+commando cp (copy) Kopieëer bestanden en directory's.
+commando mv (move) Verplaats bestanden en directory's.
+commando rm (remove) Verwijder bestanden en directory's.
+commando mkdir (make directory) Maak een nieuwe directory aan.
+commando rmdir (remove directory) Verwijder een lege directory.
+commando pwd (print working directory) pwd dient om je huidige map te bekijken.
+commando cd (change directory) is om van directory te veranderen. Bij het commando cd moet je wel een argument mee geven. 
+Bijvoorbeeld als je naar de map "techgrounds" wil gaan, dan kan je het volgende commando gebruiken: cd techgrounds
+
+## Opdracht
+### Gebruikte bronnen
+[Plaats hier de bronnen die je hebt gebruikt.]
+
+### Ervaren problemen
+[Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
+
+### Resultaat
+[Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
