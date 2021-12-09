@@ -17,20 +17,21 @@ Door de open bron licenties mag iedereen nieuwe versies van Linux bouwen en dist
 
 ## Opdracht
 
-- Installeer een virtuele Ubuntu machine op uw laptop.
-- Nadat de installatie en configuratie zijn voltooid, maakt u een momentopname van de virtuele machine. Dit fungeert als controlepunt voor het geval u de machine per ongeluk (of expres) kapot maakt.
-- Ga naar de terminal in je VM en typ 'whoami'. De terminal zou uw gebruikersnaam moeten tonen.
+Installeer een virtuele Ubuntu machine op uw laptop. 
+Nadat de installatie en configuratie zijn voltooid, maakt u een momentopname van de virtuele machine. 
+Dit fungeert als controlepunt voor het geval u de machine per ongeluk (of expres) kapot maakt. 
+Ga naar de terminal in je VM en typ 'whoami'. De terminal zou uw gebruikersnaam moeten tonen.
 
 ## Gebruikte bronnen
 
-geen.
+ubuntu-21.10-desktop-amd64.iso
+
+Virtualbox VM
 
 ## Ervaren problemen
 
-geen.
+Installatie had veel problemen en kosten erg veel tijd
 
 ## Resultaat
-
-Door `whoami` commando te gebruiken.
 
 ![naamvandeplaatje](../00_includes/whoamiscreenhot.png)
