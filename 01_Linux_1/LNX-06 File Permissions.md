@@ -22,6 +22,14 @@ Deze gebruikersklasse heeft de symbolische notatie ‘o’.
 
 Heeft een opdracht betrekking op alle gebruikersklassen (user, group en others)? Dan is in de symbolische notatie hiervoor de afkorting ‘a’ beschikbaar, voor ‘all’.
 
+## Gebruikte bronnen
+
+Linux File Permission Tutorial: How to Check and Change Permissions https://phoenixnap.com/kb/linux-file-permissions
+
+Chmod: zo werken maprechten in Linux https://www.strato.nl/server/chmod-hoe-gebruik-je-het/
+
+Chown Command in Linux (File Ownership) https://linuxize.com/post/linux-chown-command/
+
 ## Benodigheden
 
 CentOS VM
