@@ -49,7 +49,6 @@ https://www.youtube.com/watch?v=s2bsE7MJTQg
 Omdat ik nog onervaren ben in linux zorgen absolute en relative paths navigaties voor kleine verdwalingen en errors.
 
 ## Resultaat
-De opdracht is goed gelukt zie screenshot
 
 ![naamvandeplaatje](../00_includes/LNX-02FilesandDirectoriesScreenShot.jpg)
 
