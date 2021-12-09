@@ -33,4 +33,4 @@ geen.
 
 Door `whoami` commando te gebruiken.
 
-![whoami](https://raw.githubusercontent.com/Rithmatist/cloud-6-repo-Rithmatist/main/00_includes/whoami.JPG)
+![whoami](https://raw.githubusercontent.com/whoamiscreenhot.png)
