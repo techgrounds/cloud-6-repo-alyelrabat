@@ -51,6 +51,6 @@ Omdat ik nog onervaren ben in linux zorgen absolute en relative paths navigaties
 ## Resultaat
 De opdracht is goed gelukt zie screenshot
 
-![naamvandeplaatje](../00_includes/LNX-02FilesandDirectoriesScreenShot .jpg)
+![naamvandeplaatje](../00_includes/LNX-02FilesandDirectoriesScreenShot.jpg)
 
 
