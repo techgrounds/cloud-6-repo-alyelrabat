@@ -50,3 +50,5 @@ Omdat ik nog onervaren ben in linux zorgen absolute en relative paths navigaties
 
 ## Resultaat
 De opdracht is goed gelukt zie screenshot
+
+00_includes/LNX-02 Files and Directories Screen Shot .jpg
