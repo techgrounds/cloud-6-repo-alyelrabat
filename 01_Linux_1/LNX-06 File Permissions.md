@@ -22,18 +22,6 @@ Deze gebruikersklasse heeft de symbolische notatie ‘o’.
 
 Heeft een opdracht betrekking op alle gebruikersklassen (user, group en others)? Dan is in de symbolische notatie hiervoor de afkorting ‘a’ beschikbaar, voor ‘all’.
 
-## Gebruikte bronnen
-
-Linux File Permission Tutorial: How to Check and Change Permissions https://phoenixnap.com/kb/linux-file-permissions
-
-Chmod: zo werken maprechten in Linux https://www.strato.nl/server/chmod-hoe-gebruik-je-het/
-
-Chown Command in Linux (File Ownership) https://linuxize.com/post/linux-chown-command/
-
-## Benodigheden
-
-CentOS VM
-
 ## Opdracht
 
 - Maak een tekstbestand.
@@ -47,6 +35,18 @@ CentOS VM
 - Wijzig de eigenaar van het bestand in een andere gebruiker. Als alles goed is gegaan, zou je het bestand niet moeten kunnen lezen, tenzij je root-privileges aanneemt met 'sudo'.
 
 - Wijzig het groepseigendom van het bestand in een andere groep.
+
+## Benodigheden
+
+CentOS VM
+
+## Gebruikte bronnen
+
+Linux File Permission Tutorial: How to Check and Change Permissions https://phoenixnap.com/kb/linux-file-permissions
+
+Chmod: zo werken maprechten in Linux https://www.strato.nl/server/chmod-hoe-gebruik-je-het/
+
+Chown Command in Linux (File Ownership) https://linuxize.com/post/linux-chown-command/
 
 ## Ervaren problemen
 
