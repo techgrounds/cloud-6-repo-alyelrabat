@@ -22,16 +22,26 @@ Deze gebruikersklasse heeft de symbolische notatie ‘o’.
 
 Heeft een opdracht betrekking op alle gebruikersklassen (user, group en others)? Dan is in de symbolische notatie hiervoor de afkorting ‘a’ beschikbaar, voor ‘all’.
 
+## Benodigheden
 
-## Requirements
+CentOS VM
 
-Your CentOS VM
+## Opdracht
 
-## Exercise
+- Maak een tekstbestand.
 
-Create a text file.
-Make a long listing to view the file’s permissions. Who is the file’s owner and group? What kind of permissions does the file have?
-Make the file executable by adding the execute permission (x).
-Remove the read and write permissions (rw) from the file for the group and everyone else, but not for the owner. Can you still read it?
-Change the owner of the file to a different user. If everything went well, you shouldn’t be able to read the file unless you assume root privileges with ‘sudo’.
-Change the group ownership of the file to a different group.
+- Maak een lange lijst om de machtigingen van het bestand te bekijken. Wie is de eigenaar en groep van het bestand? Welke machtigingen heeft het bestand?
+
+- Maak het bestand uitvoerbaar door de uitvoermachtiging (x) toe te voegen.
+
+- Verwijder de lees- en schrijfrechten (rw) uit het bestand voor de groep en alle anderen, maar niet voor de eigenaar. Kun je het nog lezen?
+
+- Wijzig de eigenaar van het bestand in een andere gebruiker. Als alles goed is gegaan, zou je het bestand niet moeten kunnen lezen, tenzij je root-privileges aanneemt met 'sudo'.
+
+- Wijzig het groepseigendom van het bestand in een andere groep.
+
+## Ervaren problemen
+
+geen.
+
+## Resultaat
