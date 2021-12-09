@@ -31,7 +31,9 @@ Ik vond deze oefening pittig en leerzaam. meest voorkomende probleem was dat ik 
 
 # Resultaat
 
-Usersandgroupsscreenshot1.png
+![naamvandeplaatje](../00_includes/Usersandgroupsscreenshot1.png)
 
-Usersandgroupsscreenshot2.png
+![naamvandeplaatje](../00_includes/Usersandgroupsscreenshot2.png)
+
+
 
