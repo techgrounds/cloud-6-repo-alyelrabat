@@ -1,14 +1,27 @@
-# File permissions
+# File permissions (Toegangsrechten)
 
-## Introduction
+## Introductie
 
-Every file in Linux contains a set of permissions. There are separate permissions for reading, writing, and executing files (rwx). 
-There’s also three types of entities that can have different permissions: the owner of the file, a group, and everyone else. 
-Root does not need permissions to read, write or execute a file.
+Op een groot deel van de webservers draait het Unix-achtige besturingssysteem Linux. 
+Alle Unix-derivaten hebben gemeen dat aan bestanden en mappen bepaalde toegangsrechten worden toegekend 'rwx'. 
+Je kunt die in Linux wijzigen met ‘chmod’ (change mode), een command-line-programma dat in de terminal via het gelijknamige commando geactiveerd wordt.
+reading, writing, and executing files (rwx). 
+n Unix en Linux heeft elk bestand op een server individuele toegangsrechten. Hetzelfde geldt voor directories. 
+De toegangsrechten worden geregeld volgens drie klassen van gebruikers:
 
-You can view a file’s permissions by creating a long listing. A file’s permissions, as well as its owner and group, can be changed as well.
-Any user listed in /etc/passwd can be assigned as owner of a file.
-Any group listed in /etc/group can be assigned as the group of a file.
+- (user) Eigenaar : een gebruiker die een bestand aanmaakt in Unix wordt gewoonlijk automatisch gedefinieerd als de ‘user’ van het bestand. 
+Het eigendom kan later worden gewijzigd door het commando ‘chown’. In de symbolische notatie krijgt de gebruikersklasse ‘user’ de letter ‘u’.
+
+- (group) Groep : de gebruikersklasse ‘group’ omvat verschillende gebruikersaccounts op de server. 
+In Unix-bestandssystemen wordt elk gebruikersaccount automatisch toegewezen aan een hoofdgroep. 
+Lidmaatschap in andere groepen is ook mogelijk. Zowel de eigenaar als de rootgebruiker kan bestanden groeperen met behulp van het ‘chgrp’ commando. 
+De gebruikersklasse ‘groep’ wordt in de symbolische notatie met de letter ‘g’ weergegeven.
+
+- (others) Andere : deze gebruikersklasse omvat alle gebruikers die geen user zijn van het bestand en ook niet bij een groep horen. 
+Deze gebruikersklasse heeft de symbolische notatie ‘o’.
+
+Heeft een opdracht betrekking op alle gebruikersklassen (user, group en others)? Dan is in de symbolische notatie hiervoor de afkorting ‘a’ beschikbaar, voor ‘all’.
+
 
 ## Requirements
 
