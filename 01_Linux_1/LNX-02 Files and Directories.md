@@ -46,7 +46,10 @@ Terminal Commands Lesson 04 - Editing Text Files - echo, cat, nano, vi.
 https://www.youtube.com/watch?v=s2bsE7MJTQg
 
 ## Ervaren problemen
-Omdat ik nog onervaren ben in linux zorgen absolute en relative paths navigaties voor kleine verdwalingen en errors.
+
+Bijna geen problemen ondervonden tijdens de oefening.
+Omdat ik nog onervaren ben in linux zorgden absolute en relative path navigaties voor kleine verdwalingen en errors.
+
 
 ## Resultaat
 
