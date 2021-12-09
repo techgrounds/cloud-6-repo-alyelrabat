@@ -33,7 +33,9 @@ Leid deze keer de uitvoer om naar een nieuw bestand met de naam 'techgrounds.txt
 
 ## Gebruikte bronnen
 
-ack - Documentation
+Tekst schrijven met CLI https://www.youtube.com/watch?v=Q8fTNmMPSYo
+
+ack's command-line switches https://beyondgrep.com/documentation/
 
 ## Ervaren problemen
 
