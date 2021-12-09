@@ -41,8 +41,8 @@ Voornamelijk zelf gemaakte syntax typo errors verder geen problemen samen met he
 
 ## Resultaat
 
-![naamvandeplaatje](../00_includes/LNX-04Workingwithtext(CLI).jpg
+![naamvandeplaatje](../00_includes/LNX-04WorkingwithtextCLI.jpg)
 
-![naamvandeplaatje](../00_includes/LNX-04Workingwithtext(CLI)pt2.jpg
+![naamvandeplaatje](../00_includes/LNX-04WorkingwithtextCLIpt2.jpg)
 
 
