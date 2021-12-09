@@ -1,6 +1,7 @@
 # File permissions
 
-Introduction:
+## Introduction
+
 Every file in Linux contains a set of permissions. There are separate permissions for reading, writing, and executing files (rwx). 
 There’s also three types of entities that can have different permissions: the owner of the file, a group, and everyone else. 
 Root does not need permissions to read, write or execute a file.
@@ -13,8 +14,7 @@ Any group listed in /etc/group can be assigned as the group of a file.
 
 Your CentOS VM
 
-## 
-Exercise
+## Exercise
 
 Create a text file.
 Make a long listing to view the file’s permissions. Who is the file’s owner and group? What kind of permissions does the file have?
