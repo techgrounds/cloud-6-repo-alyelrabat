@@ -37,7 +37,7 @@ ack - Documentation
 
 ## Ervaren problemen
 
-Voornamelijk zelf gemaakte syntax typo errors verder geen problemen samen met het team alles goed kunnen inplementerern
+Voornamelijk zelf gemaakte syntax typo errors verder geen problemen samen met het team alles goed kunnen uitvoeren
 
 ## Resultaat
 
