@@ -31,19 +31,31 @@ geen
 ##### Start de ssh-daemon.
 `sudo service ssh start`
 
-![sshstart](../00_includes/sshstart.JPG)
+![naamvandeplaatje](../00_includes/LNX-07Processesstatussshscreenshot2.png)
+
+
+
 
 ##### Ontdek de PID van de ssh-daemon.       
 `sudo service ssh status` | `pgrep ssh`
 
-![pgrep](../00_includes/pgrep.JPG)
+![naamvandeplaatje](../00_includes/LNX-07Processespidofsshdscreenshot3.png)
+
+
+
 
 ##### Zoek uit hoeveel geheugen de sshd gebruikt.
 `sudo serivce ssh status` | `sudo pmap 11338` 
 
-![sshstatus](../00_includes/sshstatus.JPG)
+![naamvandeplaatje](../00_includes/LNX-07Processesmemorythesshdisusingscreenshot4.p)
+
+
+
 
 ##### Stop of sluit het sshd-proces.
 `sudo service ssh stop`
 
-![sshstop](../00_includes/sshstop.JPG)
+![naamvandeplaatje](../00_includes/LNX-07Processesstopsshpt1screenshot5.png)
+
+
+
