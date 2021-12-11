@@ -37,7 +37,7 @@ geen
 
 
 ##### Ontdek de PID van de ssh-daemon.       
-`sudo service ssh status` | `pgrep ssh`
+`sudo service ssh status` or `pgrep ssh`
 
 ![naamvandeplaatje](../00_includes/LNX-07Processespidofsshdscreenshot3.png)
 
@@ -45,9 +45,9 @@ geen
 
 
 ##### Zoek uit hoeveel geheugen de sshd gebruikt.
-`sudo serivce ssh status` | `sudo pmap 11338` 
+`sudo serivce ssh status` or `sudo pmap 11338` 
 
-![naamvandeplaatje](../00_includes/LNX-07Processesmemorythesshdisusingscreenshot4.p)
+![naamvandeplaatje](../00_includes/LNX-07Processesmemorythesshdisusingscreenshot4.png)
 
 
 
@@ -56,6 +56,8 @@ geen
 `sudo service ssh stop`
 
 ![naamvandeplaatje](../00_includes/LNX-07Processesstopsshpt1screenshot5.png)
+
+![naamvandeplaatje](../00_includes/LNX-07Processesstoppedsshpt2statusscreenshot6.png)
 
 
 
