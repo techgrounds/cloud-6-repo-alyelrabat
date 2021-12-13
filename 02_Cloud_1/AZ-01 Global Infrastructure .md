@@ -31,8 +31,13 @@ Het voordeel bij Region Pairs komt naar voren bij een storing in Azure. Zo krijg
 
 ### Bronnen:
 
-https://docs.microsoft.com/en-us/azure/availability-zones/az-overview , https://azure.microsoft.com/en-us/global-infrastructure/geographies/ ,
-https://www.pragimtech.com/blog/azure/azure-regions-and-paired-regions/
+https://azure.microsoft.com/en-us/global-infrastructure/geographies/ 
+
+https://docs.microsoft.com/en-us/azure/availability-zones/az-overview 
+
+https://docs.microsoft.com/nl-nl/azure/availability-zones/cross-region-replication-azure 
+ 
+https://www.pragimtech.com/blog/azure/azure-regions-and-paired-regions/ 
 
 
 
