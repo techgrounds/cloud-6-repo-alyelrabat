@@ -21,7 +21,7 @@ Onderdeel van de afspraken die wij gemaakt hebben over protocols is dat deze mee
 
 ## Benodigdheden:
 
-TCP/IP-pakket https://nl.wikipedia.org/wiki/TCP/IP-pakket#:~:text=3%20Referenties-,Structuur,pakket%20of%20IP%2Ddatagram%20genoemd
+TCP/IP-pakket https://nl.wikipedia.org/wiki/TCP/IP-pakket
 
 Wat is TCP en UDP? Een simpele uitleg https://nordvpn.com/nl/blog/wat-is-tcp-udp/
 
