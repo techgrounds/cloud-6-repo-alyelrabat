@@ -29,6 +29,8 @@ Waarom zou je een regio boven een andere verkiezen?
 
 ## Resultaat
 
+### When your workloads run on Azure, data may travel near or far—but that journey always starts in an Azure geography and hits some common points along the way.
+
 ### Datacenter regions are accessible across the world
 
 With more global regions than any other cloud provider, Azure gives customers the flexibility to deploy applications where they need.
