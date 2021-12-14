@@ -1,5 +1,9 @@
 # Cost Management + Billing
 
+https://azure.microsoft.com/nl-nl/services/cost-management/#overview
+
+https://docs.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview
+
 ## CAPEX vs OPEX
 
 Bedrijven hebben verschillende uitgaven, van de huur die ze betalen voor hun fabrieken of kantoren tot de kosten van grondstoffen voor hun producten, 
@@ -9,19 +13,19 @@ en Operating Expenses 'OPEX' (bedrijfskosten).
 Capital Expenditures (CAPEX) worden gedaan wanneer een bedrijf activa aanneemt die na het lopende belastingjaar voordelig zouden kunnen zijn.
 Operating Expenses (OPEX) bestaan uit de kosten die een bedrijf maakt om elke dag goed te kunnen functioneren. 
  
-### Capital Expenditures (CAPEX) 
+#### Capital Expenditures (CAPEX) 
 
 o.a. hardware servers On-Premise en Enterprise software licensies
 
-### Operating Expenses (OPEX) 
+#### Operating Expenses (OPEX) 
 
 o.a. virtual hardware (servers) en software subscriptions door middel van lease met Azure Pay-as-you-go 
 
 ## Azure geeft de volgende principes om succesvol je kosten te reduceren
 
-### Plan (Planning)
+#### Plan (Planning)
 
-Met vooraf planning kunt u het Cloudgebruik afstemmen op uw specifieke zakelijke vereisten. 
+Met vooraf planning kunt u het cloudgebruik afstemmen op uw specifieke zakelijke vereisten. 
 
 - Welk zakelijk probleem ben ik aan het oplossen?
 
@@ -30,7 +34,7 @@ Met vooraf planning kunt u het Cloudgebruik afstemmen op uw specifieke zakelijke
 - Uw antwoorden helpen u het aanbod te kiezen dat bij u past.
 Ze bepalen welke infrastructuur moet worden gebruikt en hoe deze wordt gebruikt om uw Azure-efficiëntie te maximaliseren.
 
-### Zichtbaarheid (Visibility)
+#### Visibility (Zichtbaarheid) 
 
 Als het goed is gestructureerd, helpt de 'Cost Management' u om mensen te informeren over de Azure-kosten 
 waarvoor ze verantwoordelijk zijn of voor het geld dat ze uitgeven. 
@@ -42,48 +46,52 @@ Azure fucties hier voor zijn bijvoorbeeld Cost Analysis'. Met 'Cost Analysis' an
 Met de Azure functie 'Export' push je jou data naar een storage account op een dagelijkse of wekenlijkse basis om daily snapshots intezien 
 en of de gewonnen data te laten intergregren met andere services.
 
-### Verantwoording (Accountability)
+#### Accountability (Verantwoording)
 
 Zorg voor inzicht mbt kosten in uw organisatie om ervoor te zorgen dat de verantwoordelijke personen verantwoordelijk zijn voor de uitgaven van hun team. 
 Om de Azure-uitgaven van uw organisatie volledig te begrijpen, moet u uw resources zo organiseren dat u maximaal inzicht krijgt in de kostentoewijzing. 
 Een goede organisatie helpt bij het beheersen en verlagen van kosten en houdt mensen verantwoordelijk voor efficiënte bestedingen in uw organisatie.
 
 Stel artefacten zoals sjablonen, beleidsregels, roltoewijzingen en resourcegroepen samen op basis van algemene of organisatiegebaseerde patronen in herbruikbare blauwdrukken.
+
 https://azure.microsoft.com/en-us/solutions/governance/#features
 
-### Optimalisatie (Optimization)
+#### Optimization (Optimalisatie)
 
 Met de meest optimale inzicht o.a. door middel van planning en zichtbaarheid kan je handellen om uitgaven te verminderen zo optimaliseer je de kosten. 
 U kunt aankoop- en licentie-optimalisaties overwegen, evenals wijzigingen in de infrastructuurimplementatie.
 
-### Iteratie (Iteration)
+#### Iteration (Iteratie)
 
 In uw organisatie zal iedereen zich bewust moeten zijn van de levenscyclus van kostenbeheer. 
 Ze moeten voortdurend betrokken blijven om de kosten te optimaliseren door o.a te monitoren en verbeteren.
 Wees rigoureus over dit iteratieve proces en maak verantwoord cloudbeheer een belangrijk principe in uw organisatie.
 
-### Totale Eigendomskosten (Total Cost of Ownership 'TCO')
+https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/cost-mgt-best-practices
+
+#### Total Cost of Ownership 'TCO' (Totale Eigendomskosten)
 
 Bij het evalueren van uw gebruik van de Azure-cloud is het belangrijk om rekening te houden met de Total Cost of Ownership (TCO).
 De TCO wordt gebruikt om te berekenen hoeveel een infrastructuur kost als het op de traditionele manier gehost wordt. 
 Met de TCO-calculator kan je de kosten van een traditionele infrastructuur vergelijken met de kosten voor dezelfde infrastructuur op Azure.
 
-Je kan bijvoorbeeld met de TCO-calculator een schatting van de kostenbesparing maken door uw workloads te migreren naar Azure
+Je kan bijvoorbeeld met de TCO-calculator een schatting van de kostenbesparing maken door uw workloads te migreren naar Azure.
+
 https://azure.microsoft.com/nl-nl/pricing/tco/calculator/
 
 ## TCO-Calculator
 
-### Azure 'TCO-calculator' hoe wordt het gebruikt?
+#### Azure 'TCO-calculator' hoe wordt het gebruikt?
 
 De Azure TCO-calculator werkt in drie fasen
 
-### Define your workloads (Uw workloads definiëren)
+#### Define your workloads (Uw workloads definiëren)
 - Servers
 - Databases
 - Storage
 - Networking
 
-### Adjust assumptions (Veronderstellingen aanpassen)
+#### Adjust assumptions (Veronderstellingen aanpassen)
 - Software Assurance coverage (Software Assurance dekking voor Windows Server ,Software Assurance dekking voor SQL Server)
 - Geo-redundant storage 'GRS' (Geografisch redundante opslag)
 - Virtual Machine costs (Kosten van virtuele machines)
@@ -96,11 +104,22 @@ Hardware costs, Software costs, Virtualization costs, Data center costs, Network
 
 Hiervoor zijn echter door de klant minder aanpassingen vereist en kunt u hiervoor op elk gewenst moment naar deze sectie terugkomen en de veronderstellingen aanpassen.
 
- ### Rapport bekijken
+#### Rapport bekijken
  
- Nadat u hebt bevestigd dat uw gegevens correct zijn, kunt u de berekeningen uitvoeren. U kunt vervolgens uw geschatte kosten voor Azure-resources en -services bekijken.
+Nadat u hebt bevestigd dat uw gegevens correct zijn, kunt u de berekeningen uitvoeren. U kunt vervolgens uw geschatte kosten voor Azure-resources en -services bekijken.
  
-[Berekening total cost of ownership (TCO) _ Microsoft Azure.pdf](https://github.com/techgrounds/cloud-6-repo-alyelrabat/files/7711801/Berekening.total.cost.of.ownership.TCO._.Microsoft.Azure.pdf)
+Zie voorbeeld: [Berekening total cost of ownership (TCO) _ Microsoft Azure.pdf](https://github.com/techgrounds/cloud-6-repo-alyelrabat/files/7711801/Berekening.total.cost.of.ownership.TCO._.Microsoft.Azure.pdf)
+
+### Azure-account free subscription
+
+#### Voorwaarden
+
+## Opdracht:
+
+Maak een alert aan waarmee je eigen Cloud Pass kan monitoren. 
+
+Begrijp de opties die Azure aanbiedt om je uitgaven in te zien
+
 
 
 
