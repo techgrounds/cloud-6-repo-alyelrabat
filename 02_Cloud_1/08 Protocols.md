@@ -1,17 +1,19 @@
 # Protocols
 
-## Introductie:
+Een 'protocol' is een gedragsovereenkomst, meestal in de vorm van een aantal uit te voeren stappen. Er bestaan verschillende typen protocollen, zoals communicatieprotocollen, computerprotocollen, wetenschappelijke protocollen, medische protocollen, ceremoniële protocollen, ethische protocollen en verdragsprotocollen.
 
-Een netwerk protocol is een afspraak die wij mensen gemaakt hebben over hoe computers met elkaar communiceren. Deze afspraken maken het mogelijk dat het Internet kan bestaan, zonder dat je voor iedere verbinding een andere standaard moet aanhouden.
-Het OSI-model is een goed hulpmiddel om te beschrijven waar een protocol ‘leeft’ en wat het doel is van een protocol. Vaak genoeg ‘leeft’ een protocol in meerdere lagen van het OSI-model.
+## Ontstaan OSI-Model
 
-Twee protocols die in laag 4 ‘leven’ is TCP en UDP. Deze protocols zijn verantwoordelijk voor het transport van internet pakketten. 
-TCP, veel gebruikt op het web, heeft een aantal stappen waarin er zeker gesteld wordt dat de verbinding gemaakt kan worden en om zeker te zijn dat alle data is overgekomen. Dit is ook wel de ‘three-way handshake’ genoemd. Dit maakt TCP erg betrouwbaar.
-UDP heeft een hele andere aanpak: ‘fire and forget’. UDP maakt geen zorgen over of een pakketje aankomt. Dit maakt dit protocol onbetrouwbaar, maar wel veel sneller. UDP wordt veel gebruikt in omstandigheden waar snelheid belangrijker is dan snelheid. Zoals de video data van een Zoom-call.
+Het Open Systems Interconnection Model (OSI-model) werd in 1977 door de International Organization for Standardization (ISO)* ontworpen als referentiemodel voor een open communicatie tussen verschillende technische systemen.
+Het OSI-model is het resultaat van een poging tot standaardiseren en biedt als conceptueel kader een designbasis voor communicatiestandaards die niet afhankelijk zijn van fabrikanten. 
 
-Protocols die ‘leven’ in hogere lagen van het OSI-model hebben meestal specifieke toepassingen. HTTP(s) of SSH zijn enkele voorbeelden van hogere level protocols.
+Het OSI-model is het resultaat van een poging tot standaardiseren en biedt als conceptueel kader een designbasis voor communicatiestandaards die niet afhankelijk zijn van fabrikanten. Daarvoor verdeelt het door ISO ontworpen OSI-model het complexe proces van de netwerkcommunicatie in zeven niveaus, de zogenaamde lagen (in het Engels layers)
 
-Onderdeel van de afspraken die wij gemaakt hebben over protocols is dat deze meestal een ‘standaard poort’ hebben. Voor SSH is dit poort 22.
+## Wat is het OSI-Model
+
+Het OSI model is een veelgebruikte term in de netwerkwereld en staat voor Open Systems Interconnection. Het OSI model bestaat uit 7 lagen die ieder staan voor een bepaalde functie in het netwerk. Alle netwerkcomponenten of clients die verbinding kunnen maken met het netwerk wisselen communicatie uit via de regels van het OSI model.
+
+*De International Organization for Standardization (ISO) is een internationale niet-gouvernementele organisatie die bestaat uit nationale normalisatie-instellingen; het ontwikkelt en publiceert een breed scala aan propriëtaire, industriële en commerciële normen en bestaat uit vertegenwoordigers van verschillende nationale normalisatie-organisaties.
 
 ## Bestudeer:
 
@@ -29,10 +31,19 @@ OSI Model Layers and Protocols in Computer Network https://www.guru99.com/layers
 
 ## Opdracht:
 
-- Begrijp hoe een HTTPS TCP/IP-pakket opgebouwd is
+#### Begrijp hoe een HTTPS TCP/IP-pakket opgebouwd is
 
-- Begrijp wie bepaalt welke protocols wij gebruiken en wat je zelf moet doen om een nieuw protocol te introduceren.
+HyperText Transfer Protocol Secure, afgekort 'HTTPS', is een uitbreiding op het HTTP-protocol met als doel een veilige uitwisseling van gegevens.
 
-- Identificeer op zijn minst één protocol per OSI-laag.
+'TCP/IP' is een verzamelnaam voor een reeks netwerkprotocollen die gebruikt worden voor het grootste deel van de netwerkcommunicatie tussen computers. 
+Het internet is het grootste en bekendste TCP/IP-netwerk.
 
-- Facebook was recent een lange tijd niet beschikbaar. Ontdek waarom. Tip: BGP.
+#### Begrijp wie bepaalt welke protocols wij gebruiken en wat je zelf moet doen om een nieuw protocol te introduceren.
+
+International Organization for Standardization (ISO)
+
+#### Identificeer op zijn minst één protocol per OSI-laag.
+
+Layer 4	Transport	TCP, UDP
+
+#### Facebook was recent een lange tijd niet beschikbaar. Ontdek waarom. Tip: BGP.
