@@ -79,6 +79,8 @@ Je kan bijvoorbeeld met de TCO-calculator een schatting van de kostenbesparing m
 
 https://azure.microsoft.com/nl-nl/pricing/tco/calculator/
 
+https://cloud.netapp.com/blog/azure-cvo-blg-how-to-reduce-your-cloud-bill-with-the-azure-tco-calculator#H_H3
+
 ## TCO-Calculator
 
 #### Azure 'TCO-calculator' hoe wordt het gebruikt?
