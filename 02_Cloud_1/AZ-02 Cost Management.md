@@ -96,7 +96,11 @@ Hardware costs, Software costs, Virtualization costs, Data center costs, Network
 
 Hiervoor zijn echter door de klant minder aanpassingen vereist en kunt u hiervoor op elk gewenst moment naar deze sectie terugkomen en de veronderstellingen aanpassen.
 
+ ### Rapport bekijken
  
+ Nadat u hebt bevestigd dat uw gegevens correct zijn, kunt u de berekeningen uitvoeren. U kunt vervolgens uw geschatte kosten voor Azure-resources en -services bekijken.
+ 
+[Berekening total cost of ownership (TCO) _ Microsoft Azure.pdf](https://github.com/techgrounds/cloud-6-repo-alyelrabat/files/7711801/Berekening.total.cost.of.ownership.TCO._.Microsoft.Azure.pdf)
 
-### Rapport bekijken
+
 
