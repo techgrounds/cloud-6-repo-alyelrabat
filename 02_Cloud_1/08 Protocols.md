@@ -44,7 +44,13 @@ De applicatielaag wordt gebruikt door netwerk-applicaties zoals FTP clients, e-m
 
 ---------------------------------------------------------------------------------
 
-#### Facebook en de BGP-update (Border Gateway Protocol)
+## Wie bepaalt welke protocols wij gebruiken en hoe introduceer je zelf een nieuw protocol.
+
+Je zal eerst moeten weten welke poorten wel of niet bezet zijn vervolgens test je jouw app of die luistert naar het protocol.
+Werkt het, dan introduceer je het protocol met info (naam en port#) en bewijs materiaal (in operation) bij de directie.
+De directie gaat buigen over het toekennen protocol als standard ja of nee.
+
+## Facebook en de BGP-update (Border Gateway Protocol)
 
 Facebook was recent niet beschickbaar omdat een routinematige BGP-update fout was gegaan. BGP staat voor Border Gateway Protocol. Dat is de routekaart die aan je computer laat weten waar websites en apps te vinden zijn.
 Het systeem wordt ook gebruikt bij het laden van chats in WhatsApp en Messenger, de foto's op Instagram, interne berichten van bedrijven die Workplace gebruiken en de VR-apps van Oculus-brillen.
@@ -65,9 +71,13 @@ OSI Model Layers and Protocols in Computer Network https://www.guru99.com/layers
 
 Open Systems Interconnection model https://osi-model.com/
 
+OSI Model Layers and Protocols in Computer Network https://www.guru99.com/layers-of-osi-model.html#5
+
 what is TCP/IP and OSI? // FREE CCNA // EP 3 https://www.youtube.com/watch?v=CRdL1PcherM&t=424s
 
 TCP, IP, HTTP/S and FTP https://www.youtube.com/watch?v=7LfTWbOp5vU
+
+https://www.ietf.org/about/participate/get-started/#participatinginmeetings
 
 
 ![IMG_2510](https://user-images.githubusercontent.com/89514322/146156008-a5677672-e021-4104-af09-e9f2fdf10f93.PNG)
