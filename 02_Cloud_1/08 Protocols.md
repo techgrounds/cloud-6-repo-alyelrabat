@@ -65,6 +65,8 @@ TCP/IP-pakket https://nl.wikipedia.org/wiki/TCP/IP-pakket
 
 OSI Model https://nl.wikipedia.org/wiki/OSI-model
 
+Les 14.1. Het TCP/IP-protocol en de netwerklagen http://www.halict.nl/lcinformatica/klas5/h14/h14_1.htm#inhoud
+
 De 7 lagen van het OSI model https://www.firewallshop.nl/kennisblog/item/het-osi-model-1
 
 Wat is TCP en UDP? Een simpele uitleg https://nordvpn.com/nl/blog/wat-is-tcp-udp/
