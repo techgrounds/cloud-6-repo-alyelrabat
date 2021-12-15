@@ -7,9 +7,13 @@ Azure Storage explorer is een gratis GUI om je data te beheren in Azure. Veel Ia
 
 ## Key-terms
 
-#### HTTP(S)
+#### Resource Group
 
-#### Blob 
+#### Region
+
+#### Private Endpoint
+
+#### Blob
 
 Blob Storage is designed for: Serving images or documents directly to a browser, Storing files for distributed access, Streaming video and audio, Writing to log files, Storing data for backup and restore, disaster recovery, and archiving, Storing data for analysis by an on-premises or Azure-hosted service
 
@@ -19,31 +23,23 @@ Een resourcegroep is een container met gerelateerde resources voor een Azure-opl
 
 In de resourcegroep worden metagegevens over de resources opgeslagen. Wanneer u daarom een locatie opgeeft voor de resourcegroep, geeft u op waar deze metagegevens worden opgeslagen. Om nalevingsredenen moet u er mogelijk voor zorgen dat uw gegevens in een bepaalde regio worden opgeslagen.
 
-#### Regio
-
 #### Azure Data Explorer
 
 ## Opdracht
 
-
 ### Gebruikte bronnen
 [Plaats hier de bronnen die je hebt gebruikt.]
 
+Een opslag account maken https://docs.microsoft.com/nl-nl/azure/storage/common/storage-account-create?tabs=azure-portal
 
+Een resource group maken https://docs.microsoft.com/nl-nl/azure/azure-resource-manager/management/manage-resource-groups-portal
+
+Introduction to Azure Blob storage https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction
 
 ### Ervaren problemen
 [Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
 
-
-
 ### Resultaat
 [Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
-
-
-
-## Bronnen
-
-Een opslagaccount maken https://docs.microsoft.com/nl-nl/azure/storage/common/storage-account-create?tabs=azure-portal
-
 
 <img width="1440" alt="Screen Shot 2021-12-15 at 14 25 53" src="https://user-images.githubusercontent.com/89514322/146198642-d588fe11-d8b2-49f5-9b43-feb7546e35f7.png">
