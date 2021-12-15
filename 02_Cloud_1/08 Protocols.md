@@ -15,7 +15,8 @@ Het OSI-model is het resultaat van een poging tot standaardiseren en biedt als c
 
 ## Wat is het OSI-Model
 
-Het OSI model is een veelgebruikte term in de netwerkwereld en staat voor Open Systems Interconnection. Het OSI model bestaat uit 7 lagen die ieder staan voor een bepaalde functie in het netwerk. Alle netwerkcomponenten of clients die verbinding kunnen maken met het netwerk wisselen communicatie uit via de regels van het OSI model.
+Het OSI model is een veelgebruikte term in de netwerkwereld en staat voor Open Systems Interconnection. Het OSI model bestaat uit 7 lagen (1.Fysieke laag, 2.Datalinklaag, 3.Netwerklaag, 4.Transportlaag, 5.Sessielaag, 6.Presentatielaag, 7.Applicatielaag) die ieder staan voor een bepaalde functie in het netwerk. 
+Alle netwerkcomponenten of clients die verbinding kunnen maken met het netwerk wisselen communicatie uit via de regels van het OSI model.
 
 De International Organization for Standardization (ISO) is een internationale niet-gouvernementele organisatie die bestaat uit nationale normalisatie-instellingen; het ontwikkelt en publiceert een breed scala aan propriëtaire, industriële en commerciële normen en bestaat uit vertegenwoordigers van verschillende nationale normalisatie-organisaties.
 
@@ -24,10 +25,13 @@ De International Organization for Standardization (ISO) is een internationale ni
 Als je data via Internet verstuurt dan gaat het in verschillende stappen. Er komen dan verschillende verschillende "stuurprogramma's" aan te pas, die verschillende dingen voor hun rekening nemen. Dat noem je de verschillende "lagen" van de transmissie. En bij elke laag heb je een protocol.
 
 ##### Fysieke laag - Deze laag verzorgt het fysieke transport van bits.
+De fysieke laag omvat alle fysieke bekabeling die tussen de netwerkcomponenten hangt.
  
 ##### Datalinklaag - Deze laag beheert en controleert de datatransmissie en probeert fouten te corrigeren
+De datalinklaag verzorgt de communicatie tussen verschillende hardware binnen een netwerk. Alle hardware apparatuur heeft een MAC of hardware adres die over de datalinklaag kunnen communiceren. Bijvoorbeeld switches werken op deze laag door middel van de ethernet techniek. De data die verstuurd worden over laag 2, worden ook wel frames genoemd.
  
 ##### Netwerklaag - Deze laag verzorgt het transport, de adressering en de routering van pakketten door een netwerk
+De netwerklaag maakt het mogelijk om data te verzenden tussen verschillende netwerken. Daarnaast zorgt de netwerk laag ervoor dat er gerouteerd kan worden binnen een netwerk. Het protocol dat draait op deze laag is het Internet Protocol, ook wel bekend als (IP). Routers werken op de netwerklaag en kunnen dus IP adressen maken. Deze virtuele adressen kunnen pakketjes ontvangen en verzenden. De data die verstuurd wordt over laag 3, worden ook wel pakketjes genoemd.
  
 ##### Transportlaag - Deze laag verzorgt een data-onafhankelijk eind-naar-eindtransportsysteem
 
@@ -36,6 +40,8 @@ En er wordt op een bepaalde manier duidelijk gemaakt aan de provider dat ze een 
 Aan het TCP-segment wordt een 'Header' toegevoegd die bestaat uit 20 bytes. Zo'n TCP-segment ziet er dan als volgt uit:
 
 ##### Applicatielaag - Deze laag verbindt de netwerkapplicaties met de gebruikers
+De applicatielaag wordt gebruikt door netwerk-applicaties zoals FTP clients, e-mail programma's en interne systemen. Deze systemen werken op de applicatielaag omdat ze gebruik maken van protocollen die draaien die ook compatible zijn met deze laag. Denk bijvoorbeeld aan FTP, HTTP, SMTP.
+
 ---------------------------------------------------------------------------------
 
 #### Facebook en de BGP-update (Border Gateway Protocol)
@@ -49,9 +55,15 @@ De mislukte update zorgde voor een situatie die het verhelpen van de storing doo
 
 TCP/IP-pakket https://nl.wikipedia.org/wiki/TCP/IP-pakket
 
+OSI Model https://nl.wikipedia.org/wiki/OSI-model
+
+De 7 lagen van het OSI model https://www.firewallshop.nl/kennisblog/item/het-osi-model-1
+
 Wat is TCP en UDP? Een simpele uitleg https://nordvpn.com/nl/blog/wat-is-tcp-udp/
 
 OSI Model Layers and Protocols in Computer Network https://www.guru99.com/layers-of-osi-model.html
+
+Open Systems Interconnection model https://osi-model.com/
 
 what is TCP/IP and OSI? // FREE CCNA // EP 3 https://www.youtube.com/watch?v=CRdL1PcherM&t=424s
 
