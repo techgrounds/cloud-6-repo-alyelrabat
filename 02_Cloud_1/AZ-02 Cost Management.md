@@ -138,14 +138,23 @@ Azure Cost Optimization Deep Dive https://www.youtube.com/watch?v=RjuTQvGm1zQ
 # Links
 
 Azure documentation https://docs.microsoft.com/en-us/azure/?product=popular
+
 Metrische waarschuwing maken, bekijken en beheren met Azure Monitor https://docs.microsoft.com/nl-nl/azure/azure-monitor/alerts/alerts-metric
+
 What is Application Insights? https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview
+
 Kostenwaarschuwingen gebruiken om gebruik en uitgaven te controleren https://docs.microsoft.com/nl-nl/azure/cost-management-billing/costs/cost-mgt-alerts-monitor-usage-spending
+
 What is monitored by Azure Monitor? https://docs.microsoft.com/en-us/azure/azure-monitor/monitor-reference
+
 Actiegroepen maken en beheren in Azure Portal https://docs.microsoft.com/nl-nl/azure/azure-monitor/alerts/action-groups
+
 Use cost alerts to monitor usage and spending https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/cost-mgt-alerts-monitor-usage-spending?WT.mc_id=Portal-Microsoft_Azure_CostManagement
+
 Gebruik en kosten van Application Insights beheren https://docs.microsoft.com/nl-nl/azure/azure-monitor/app/pricing
+
 Application Insights-resources op basis van werkruimte https://docs.microsoft.com/nl-nl/azure/azure-monitor/app/create-workspace-resource
+
 Azure Kosten real time inzien of inschatten? Het kan! https://blog.2source4.com/azure-kosten-real-time-inzichtelijk-maken-middels-power-bi
 
 
