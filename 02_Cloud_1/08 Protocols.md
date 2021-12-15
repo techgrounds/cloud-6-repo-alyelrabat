@@ -53,4 +53,6 @@ Wat is TCP en UDP? Een simpele uitleg https://nordvpn.com/nl/blog/wat-is-tcp-udp
 
 OSI Model Layers and Protocols in Computer Network https://www.guru99.com/layers-of-osi-model.html
 
+what is TCP/IP and OSI? // FREE CCNA // EP 3 https://www.youtube.com/watch?v=CRdL1PcherM&t=424s
+
 
