@@ -3,11 +3,13 @@
 ### Cloud Computing
 Cloud Computing is een gespecialiseerde vorm van gedistribueerd computergebruik die gebruiksmodellen introduceert voor het op afstand inrichten van schaalbare en gemeten IT-bronnen
 
+Cloud is overal. Het heeft de manier waarop bedrijven denken over IT-middelen en softwareoplossingen volledig veranderd. Organisaties van elk type, elke omvang en elke branche gebruiken de cloud voor een breed scala aan gebruikssituaties. Zelfs individuen zoals jij en ik gebruiken dagelijks de cloud en clouddiensten.
+
 [Geef een korte beschrijving van het onderwerp]
 
 ## Key-terms
 
-Cloud Comoputing
+Cloud Computing
 
 IT Resource
 
