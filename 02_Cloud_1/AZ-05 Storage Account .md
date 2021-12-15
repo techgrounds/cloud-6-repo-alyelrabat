@@ -7,18 +7,23 @@ Azure Storage explorer is een gratis GUI om je data te beheren in Azure. Veel Ia
 
 ## Key-terms
 
-HTTP(S)
+#### HTTP(S)
 
-BLOB
+#### Blob 
 
-Resource Group
+Blob Storage is designed for: Serving images or documents directly to a browser, Storing files for distributed access, Streaming video and audio, Writing to log files, Storing data for backup and restore, disaster recovery, and archiving, Storing data for analysis by an on-premises or Azure-hosted service
 
-Regio
+#### Resource Group
 
-Azure Data Explorer
+Een resourcegroep is een container met gerelateerde resources voor een Azure-oplossing. De resourcegroep kan alle resources voor de oplossing bevatten of alleen de resources die u als groep wilt beheren. U bepaalt hoe u resources wilt toewijzen aan resourcegroepen op basis van wat het meest zinvol is voor uw organisatie. Voeg over het algemeen resources toe die dezelfde levenscyclus delen aan dezelfde resourcegroep, zodat u ze eenvoudig als een groep kunt implementeren, bijwerken en verwijderen.
+
+In de resourcegroep worden metagegevens over de resources opgeslagen. Wanneer u daarom een locatie opgeeft voor de resourcegroep, geeft u op waar deze metagegevens worden opgeslagen. Om nalevingsredenen moet u er mogelijk voor zorgen dat uw gegevens in een bepaalde regio worden opgeslagen.
+
+#### Regio
+
+#### Azure Data Explorer
 
 ## Opdracht
-
 
 
 ### Gebruikte bronnen
@@ -33,8 +38,6 @@ Azure Data Explorer
 
 ### Resultaat
 [Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
-
-
 
 
 
