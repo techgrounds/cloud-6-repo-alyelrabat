@@ -55,5 +55,7 @@ OSI Model Layers and Protocols in Computer Network https://www.guru99.com/layers
 
 what is TCP/IP and OSI? // FREE CCNA // EP 3 https://www.youtube.com/watch?v=CRdL1PcherM&t=424s
 
+TCP, IP, HTTP/S and FTP https://www.youtube.com/watch?v=7LfTWbOp5vU
+
 
 ![IMG_2510](https://user-images.githubusercontent.com/89514322/146156008-a5677672-e021-4104-af09-e9f2fdf10f93.PNG)
