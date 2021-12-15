@@ -120,7 +120,20 @@ Zie voorbeeld: [Berekening total cost of ownership (TCO) _ Microsoft Azure.pdf](
 
 Maak een alert aan waarmee je eigen Cloud Pass kan monitoren. 
 
-Begrijp de opties die Azure aanbiedt om je uitgaven in te zien
+<img width="1432" alt="Screen Shot 2021-12-15 at 11 07 42" src="https://user-images.githubusercontent.com/89514322/146166838-ad4113cb-76ad-4715-89ab-2630381b704e.png">
+
+
+## Begrijp de opties die Azure aanbiedt om je uitgaven in te zien
+
+Als je in de auto rijdt wil je soms weten hoeveel brandstof je real time verbruikt. In een auto is dit gelukkig niet zo lastig, je gaat naar je dashboard en kiest daar voor je huidige verbruik weergeven. Je kunt precies zien hoeveel brandstof je op dat moment aan het verbranden bent.
+
+Microsoft heeft hier verschillende manieren voor: Azure kan verbruik als CSV-bestand exporteren en importeren in een ander systeem, API’s inzetten om data op te halen vanuit je Azure cost management, Microsoft Power BI om een dashboard te creëren om een overzicht te krijgen van de gebruikte en verbruikte Azure resources.
+
+## Uitgaven inzicht met Azure service tools: Azure Monitor en Log Analytics
+
+Azure Cost Management Overview https://www.youtube.com/watch?v=dxtBdjfWCZU
+
+Azure Cost Optimization Deep Dive https://www.youtube.com/watch?v=RjuTQvGm1zQ
 
 
 
