@@ -46,7 +46,9 @@ De applicatielaag wordt gebruikt door netwerk-applicaties zoals FTP clients, e-m
 
 ## Wie bepaalt welke protocols wij gebruiken en hoe introduceer je zelf een nieuw protocol.
 
-Je zal eerst moeten weten welke poorten wel of niet bezet zijn vervolgens test je jouw app of die luistert naar het protocol.
+Wie: De Internet Engineering Task Force (IETF) en de Internet Society die toezicht houdt op de IETF, houden toezicht op de internetprotocollen, en het Internet Consortium for Assigned Names and Numbers (ICANN) controleert de DNS-hiërarchie en de toewijzing van IP-adressen.
+
+Hoe: Je zal eerst moeten weten welke poorten wel of niet bezet zijn vervolgens test je jouw app of die luistert naar het protocol.
 Werkt het, dan introduceer je het protocol met info (naam en port#) en bewijs materiaal (in operation) bij de directie.
 De directie gaat buigen over het toekennen protocol als standard ja of nee.
 
@@ -77,7 +79,11 @@ what is TCP/IP and OSI? // FREE CCNA // EP 3 https://www.youtube.com/watch?v=CRd
 
 TCP, IP, HTTP/S and FTP https://www.youtube.com/watch?v=7LfTWbOp5vU
 
-https://www.ietf.org/about/participate/get-started/#participatinginmeetings
+IETF https://www.ietf.org/about/participate/get-started/#participatinginmeetings
+
+Scapy – Network Packet Toolkit https://jarnobaselier.nl/scapy-network-packet-toolkit/
 
 
 ![IMG_2510](https://user-images.githubusercontent.com/89514322/146156008-a5677672-e021-4104-af09-e9f2fdf10f93.PNG)
+![Scapy-1](https://user-images.githubusercontent.com/89514322/146162449-6d445bc0-5830-42ac-91d2-3af703ad2064.jpeg)
+![image](https://user-images.githubusercontent.com/89514322/146162862-44bcaaf2-c23a-4092-bc32-36ae74884bcc.png)
