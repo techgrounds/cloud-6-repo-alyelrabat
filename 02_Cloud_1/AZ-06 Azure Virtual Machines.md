@@ -1,5 +1,4 @@
-# Azure Virtual Machines [Geef een korte beschrijving van het onderwerp]
-
+# Azure Virtual Machines 
 De Service waarmee je VMs kan maken in Azure heet (zeer toepasselijk) Azure Virtual Machines. Je kan deze VMs gebruiken voor alles waar je een fysieke server voor zou gebruiken. Omdat ze in een datacenter van Microsoft staan, kan je er alleen verbinding mee maken via het internet. Verbinding met een remote Linux-machine maak je met het Secure Shell (ssh) protocol. Voor een verbinding met Windows machines gebruik je het Remote Desktop Protocol (RDP).
 Om een VM aan te maken moet je een image selecteren. Een image is een soort blauwdruk voor je machine. Het bevat onder andere een template voor het OS.
 VMs komen in verschillende sizes. Elke size heeft een andere hoeveelheid vCPUs, RAM, Data disks, Max IOPS, Temp storage, Premium disk support en prijs.
@@ -14,12 +13,26 @@ Spot instances zijn over het algemeen het goedkoopst, maar de availability hangt
 
 ## Key-terms [Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
 
-### Gebruikte bronnen [Plaats hier de bronnen die je hebt gebruikt.]
+Resource Group
 
-### Ervaren problemen [Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
+Inbound Ports (public /private)
 
-### Resultaat [Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
+SSH 22
+
+HTTP 80
+
+key.pem
+
+### Gebruikte bronnen 
+
+Quickstart: Create a Linux virtual machine in the Azure portal https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal
+
+Create a Linux virtual machine in Azure https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/
+
+### Resultaat
 
 <img width="1440" alt="Screen Shot 2021-12-16 at 10 50 55" src="https://user-images.githubusercontent.com/89514322/146349434-60841eae-0d19-4d44-8ce3-cf5a5a7fa71a.png">
 
 <img width="1431" alt="Screen Shot 2021-12-16 at 14 11 37" src="https://user-images.githubusercontent.com/89514322/146378175-6055c637-edc7-4720-9831-f69bfc874eb2.png">
+
+<img width="516" alt="Screen Shot 2021-12-16 at 14 53 19" src="https://user-images.githubusercontent.com/89514322/146389031-68f41b4e-4c37-49ce-a72d-9595565908c2.png">
