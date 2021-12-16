@@ -7,6 +7,8 @@ Azure Storage explorer is een gratis GUI om je data te beheren in Azure. Veel Ia
 
 ## Key-terms
 
+#### Container
+
 #### Resource Group
 
 #### Region
@@ -42,4 +44,5 @@ Introduction to Azure Blob storage https://docs.microsoft.com/en-us/azure/storag
 ### Resultaat
 [Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
 
-<img width="1440" alt="Screen Shot 2021-12-15 at 14 25 53" src="https://user-images.githubusercontent.com/89514322/146198642-d588fe11-d8b2-49f5-9b43-feb7546e35f7.png">
+
+<img width="1434" alt="Screen Shot 2021-12-16 at 08 20 46" src="https://user-images.githubusercontent.com/89514322/146326158-b385df21-70db-4d5c-a36d-43533b4f4e5b.png">
