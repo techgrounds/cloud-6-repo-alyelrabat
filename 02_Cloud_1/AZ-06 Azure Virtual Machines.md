@@ -21,3 +21,5 @@ Spot instances zijn over het algemeen het goedkoopst, maar de availability hangt
 ### Resultaat [Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
 
 <img width="1440" alt="Screen Shot 2021-12-16 at 10 50 55" src="https://user-images.githubusercontent.com/89514322/146349434-60841eae-0d19-4d44-8ce3-cf5a5a7fa71a.png">
+
+<img width="1431" alt="Screen Shot 2021-12-16 at 14 11 37" src="https://user-images.githubusercontent.com/89514322/146378175-6055c637-edc7-4720-9831-f69bfc874eb2.png">
