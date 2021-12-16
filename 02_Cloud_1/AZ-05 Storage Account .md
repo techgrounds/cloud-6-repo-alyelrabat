@@ -29,8 +29,11 @@ In de resourcegroep worden metagegevens over de resources opgeslagen. Wanneer u 
 
 ## Opdracht
 
+Maak een Azure Storage Account. Zorg dat alleen jij toegang hebt tot de data.
+Plaats data in een storage service naar keuze via de console (bijvoorbeeld een kattenfoto in Blob storage https://www.kaggle.com/crawford/cat-dataset).
+Haal de data op naar je eigen computer door middel van de Azure Storage Explorer.
+
 ### Gebruikte bronnen
-[Plaats hier de bronnen die je hebt gebruikt.]
 
 Een opslag account maken https://docs.microsoft.com/nl-nl/azure/storage/common/storage-account-create?tabs=azure-portal
 
@@ -38,11 +41,17 @@ Een resource group maken https://docs.microsoft.com/nl-nl/azure/azure-resource-m
 
 Introduction to Azure Blob storage https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction
 
+Azure Storage Explorer Connect options https://www.youtube.com/watch?v=2m6An5CwJfA
+
+Learn Azure Blob Storage for Beginners https://www.youtube.com/watch?v=S5nqaQRHXrE
+
 ### Ervaren problemen
-[Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
+
+De Azure interface is erg uigebreid en bestaat uit veel sub lagen ik heb dit als nieuwe gebruiker met wat problemen moeten ondervinden.
+Troubles are a great learning curve!
 
 ### Resultaat
-[Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
-
 
 <img width="1434" alt="Screen Shot 2021-12-16 at 08 20 46" src="https://user-images.githubusercontent.com/89514322/146326158-b385df21-70db-4d5c-a36d-43533b4f4e5b.png">
+
+<img width="1439" alt="Screen Shot 2021-12-16 at 09 11 52" src="https://user-images.githubusercontent.com/89514322/146333075-2927043c-bbc7-488b-80a6-357315533db6.png">
