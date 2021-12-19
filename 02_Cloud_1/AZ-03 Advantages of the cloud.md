@@ -8,13 +8,21 @@ Cloud is overal. Het heeft de manier waarop bedrijven denken over IT-middelen en
 ## Zes Voordelen van Cloud computing
 
 ### High Availability (Afhankelijk van de service-level agreement 'SLA')
+Systemen met een hoge beschikbaarheid garanderen een bepaald percentage uptime - een systeem met een uptime van 99,9% is bijvoorbeeld slechts 0,1% van de tijd offline - 0,365 dagen of 8,76 uur per jaar. Het aantal " nines (negens) " wordt vaak gebruikt om de mate van hoge beschikbaarheid aan te geven. Bijvoorbeeld, "vijf nines" geeft een systeem aan dat 99,999% van de tijd up is.
+
+De volgende drie elementen zijn essentieel voor een systeem met hoge beschikbaarheid:
+
+- Redundancy        : zorgt ervoor dat alle elementen die cruciaal zijn voor systeemactiviteiten een extra redundant onderdeel hebben dat het kan overnemen in geval                       van storing.
+- Monitoring        : collecting data from a running system and detecting when a component fails or stops responding.
+
+- Failover          : a mechanism that can switch automatically from the currently active component to a redundant component, if monitoring shows a failure of the                         active component.
 
 ### Scalability, Horizontal and Vertical (Schaalbaarheid, verticaal als horizontaal)
 In de Cloud is 'Scaling' een schaalbare IT-infrastructuur dat snel kan worden aangepast mbt de actuele load of vraag. Bijvoorbeeld: Een bepaalde applicatie wordt flink belast daardoor is tijdelijk extra computing power nodig. Dit gebeurt bij voorkeur automatisch, op basis van vooraf gedefinieerde omstandigheden, hierdoor merken eindgebruikers niets van wat er achter de schermen gebeurt.
 
-- Vertical   Scaling : verwijst naar het toevoegen of verwijderen van digitale bronnen, zoals CPU, geheugen en opslag (o.a. MySQL). Het upgraden of vervangen van een IT-resource door een andere met een hogere capaciteit wordt 'scaling up' genoemd en het downgraden of vervangen van een IT-resource door een andere met een lagere capaciteit wordt beschouwd als 'scaling down'.
+- Vertical   Scaling : verwijst naar het toevoegen of verwijderen van digitale bronnen, zoals CPU, geheugen en opslag (o.a. MySQL). Het upgraden of vervangen van                          een IT-resource door een andere met een hogere capaciteit wordt 'scaling up' genoemd en het downgraden of vervangen van een IT-resource door                        een andere met een lagere capaciteit wordt beschouwd als 'scaling down'.
 
-- Horizontal Scaling : Het toewijzen of vrijgeven van IT-middelen van hetzelfde type wordt horizontale schaling genoemd. Door het verwijderen of toevoegen van 'Recources'(servers) kan men aansluiten op de capaciteitseis van de werkomgeving. 
+- Horizontal Scaling : Het toewijzen of vrijgeven van IT-middelen van hetzelfde type wordt horizontale schaling genoemd. Door het verwijderen of toevoegen van                              'Recources'(servers) kan men aansluiten op de capaciteitseis van de werkomgeving. 
 
 ### Elasticity (Elasticiteit)
 is het geautomatiseerde vermogen van een cloud om IT-resources transparant te schalen, zoals vereist in reactie op runtime-omstandigheden of zoals vooraf bepaald door de cloudconsument of cloudprovider. Elasticiteit wordt vaak beschouwd als een fundamentele rechtvaardiging voor de adoptie van cloud computing, voornamelijk vanwege het feit dat het nauw samenhangt met het voordeel van verminderde investering en proportionele kosten. Cloudproviders met uitgebreide IT-resources kunnen het grootste scala aan elasticiteit bieden.
