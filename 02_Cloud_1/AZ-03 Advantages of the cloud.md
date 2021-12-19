@@ -12,10 +12,11 @@ Systemen met een hoge beschikbaarheid garanderen een bepaald percentage uptime -
 
 De volgende drie elementen zijn essentieel voor een systeem met hoge beschikbaarheid:
 
-- Redundancy        : zorgt ervoor dat alle elementen die cruciaal zijn voor systeemactiviteiten een extra redundant onderdeel hebben dat het kan overnemen in geval                       van storing.
-- Monitoring        : collecting data from a running system and detecting when a component fails or stops responding.
+- Redundancy        : Redundancy (Redundantie) zorgt ervoor dat alle elementen die cruciaal zijn voor systeemactiviteiten een extra 'Redundant' onderdeel hebben dat het kan overnemen in     geval van storing.
 
-- Failover          : a mechanism that can switch automatically from the currently active component to a redundant component, if monitoring shows a failure of the                         active component.
+- Monitoring        : het verzamelen van gegevens van een draaiend systeem en het detecteren wanneer een onderdeel faalt of niet meer reageert.
+
+- Failover          : een mechanisme dat automatisch kan overschakelen van de huidige actieve component naar een redundante component, als monitoring een storing van de actieve component aantoont.
 
 ### Scalability, Horizontal and Vertical (Schaalbaarheid, verticaal als horizontaal)
 In de Cloud is 'Scaling' een schaalbare IT-infrastructuur dat snel kan worden aangepast mbt de actuele load of vraag. Bijvoorbeeld: Een bepaalde applicatie wordt flink belast daardoor is tijdelijk extra computing power nodig. Dit gebeurt bij voorkeur automatisch, op basis van vooraf gedefinieerde omstandigheden, hierdoor merken eindgebruikers niets van wat er achter de schermen gebeurt.
@@ -33,8 +34,8 @@ In de context van cloudcomputing verwijst wendbaarheid vaak naar het vermogen om
 ### Geo-distribution (Geo-distributie)
 Gedistribueerde cloud is de toepassing van cloudcomputingtechnologieën om gegevens en applicaties die vanuit meerdere geografische locaties worden bediend, met elkaar te verbinden. Gedistribueerd, in de context van informatietechnologie (IT), betekent dat iets wordt gedeeld tussen meerdere systemen die zich ook op verschillende locaties kunnen bevinden.
 
-### Disaster recovery
-
+### Disaster Recovery
+Disaster recovery word gerealisserd met een op cloudgebaseerde/beheerde service waarmee u de kritieke systemen van uw organisatie snel kunt herstellen na een ramp en die u externe toegang tot uw systemen biedt in een veilige virtuele omgeving
 
 ## Key-terms
 
@@ -47,15 +48,23 @@ De private cloud wordt gedefinieerd als computerdiensten die worden aangeboden v
 ### Hybride Cloud
 Cloudimplementatiemodel waarbij er een combinatie is van een Public Cloud en Private Cloud. De betrokken implementaties blijven unieke entiteiten, maar zijn met elkaar verbonden door gebruik te maken van gedeelde geschikte technologie in interoperabiliteit en maakt data- en applicatie verplaats- en overdraagbaarheid mogelijk.
 
+### On Premise
+De IT benaming voor lokaal geïnstalleerde automatiseringssoftware. Ook wel traditionele IT genoemd.
+
 ### I-a-a-S
+Cloudmogelijkheden worden weergegeven en geleverd aan de klant van het type infrastructuur. Denk aan servers, storage, netwerk, virtualisatie.
 
 ### P-a-a-S
+Cloudfunctionaliteit wordt geboden aan de klant van de Cloud dienst van het type platformfunctionaliteit. Denk aan Databasemanagement- en Operating systemen.
 
 ### S-a-a-S
+Cloudfunctionaliteit wordt geboden aan de klant van de Cloud dienst van het type toepassingsmogelijkheden. Denk aan volledig vormgegeven applicatie functionaliteit. Voorbeelden: Salesforce,Google Workspace & Office 365
+
+![image](https://user-images.githubusercontent.com/89514322/146689821-3cd48570-e45d-46b9-b704-824962461413.png)
 
 
-Gebruikte bronnen
-[Plaats hier de bronnen die je hebt gebruikt.]
+
+
 
 
 
