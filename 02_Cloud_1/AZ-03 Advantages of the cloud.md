@@ -62,6 +62,12 @@ Cloudfunctionaliteit wordt geboden aan de klant van de Cloud dienst van het type
 
 ![image](https://user-images.githubusercontent.com/89514322/146689821-3cd48570-e45d-46b9-b704-824962461413.png)
 
+## Bronnen
+
+Cloud, de toverdoos van informatievoorziening? https://www.groeiplatformgea.nl/nieuws/cloud-de-toverdoos-van-informatievoorziening/
+
+Cloud Computing Design Patterns and Mechanisms https://patterns.arcitura.com/cloud-computing-patterns
+
 
 
 
