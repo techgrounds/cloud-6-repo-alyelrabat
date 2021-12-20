@@ -8,8 +8,6 @@ bron: https://docs.microsoft.com/en-us/azure/virtual-machines/disks-types
 
 ## Key-terms
 
-  
-
 ## Opdracht
 
 ### Start 2 Linux VMs. Zorgt dat je voor beide toegang hebt via SSH
