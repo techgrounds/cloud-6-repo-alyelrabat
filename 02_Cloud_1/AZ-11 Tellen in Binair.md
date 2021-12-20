@@ -34,9 +34,9 @@ Vertaal de decimalen in binair:
 
 73  = 0100 1001
 
-## Vertaal de volgende bytes in decimalen:
+Vertaal de volgende bytes in decimalen:
 
-Binair >> Decimaal
+### Binair >> Decimaal
 
 1010 1010 = 170
 
