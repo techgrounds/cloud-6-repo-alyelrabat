@@ -12,12 +12,14 @@ Er kunnen ook meer tekens in een telsysteem zitten. IPv6 adressen worden uitgedr
 Ook al is het handig om beiden te kennen, leggen wij de focus alleen op binair tellen. 
 
 ## Bestudeer:
+
 Tellen in base 2
 
 ## Benodigdheden:
+
 Je hersenen
 Handig: pen en papier
-## Verboden: een (online) calculator
+Verboden: een (online) calculator
 
 # Opdracht:
 Vertaal de decimalen in binair:
