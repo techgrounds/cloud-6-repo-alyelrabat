@@ -50,3 +50,5 @@ Iphone  109.36.139.82
 ### Verwijder het publieke IP adres van je VM. Begrijp wat er gebeurt met je verbinding.
 
 Vergeet niet de VMs te verwijderen en alle extra resources te verwijderen nadat je klaar bent.
+
+https://www.youtube.com/watch?v=FTUV0t6JaDA
