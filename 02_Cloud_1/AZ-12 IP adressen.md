@@ -22,10 +22,15 @@ Wij focussen ons op IPv4. Ondanks dat de transitie naar IPv6 noodzakelijk is, ge
 
 ## Bestudeer:
 
-IP adressen
 IPv4 en IPv6
-Public en Private IPs
-NAT
+
+## IP adres (172.16.254.1)
+
+Wat is een IP adres ?
+
+IP-adressen zorgen ervoor dat gegevens op de juiste bestemming terechtkomen. Mensen en bedrijven hebben uw adres nodig als ze post naar u willen sturen. Zo is het ook op internet: een digitaal adres is nodig om u de gewenste gegevens te kunnen toesturen.
+
+Een IP-adres bestaat over het algemeen uit vier getallen tussen 0 en 255, van elkaar gescheiden met punten. De vier getallen hoeven niet allemaal te bestaan uit drie cijfers. In het bovenstaande voorbeeld is het eerste getal 172, het tweede getal 16, het derde getal 254 en het vierde getal 1.
 
 ## IPV6
 
@@ -34,6 +39,23 @@ Wat is IPv6?
 Internet Protocol versie 6 (IPv6) is een bijgewerkte standaard voor de identificatie van computers op internet. Net als bij IPv4 wordt met dit protocol aan elk apparaat een uniek id toegewezen, met de nodige aanpassingen in verband met het toenemende aantal computers dat vandaag de dag met internet verbonden is.
 
 IPv6 verhoogt het aantal mogelijke IP-adressen van die 4 miljard bij IPv4 tot 340 sextiljoen (een getal van 39 cijfers). IPv6 wordt geschreven als een 128-bits hexadecimale cijferreeks en een typisch IPv6-adres ziet er ongeveer zo uit: 2001:0ab8:85a2:0000:0000:8a3e:0370:7334
+
+## Public en Private IPs
+
+Wat zijn Public en Privare IPs ?
+
+- Public (Openbare) IP-adressen zijn adressen waarmee twee computers elkaar kunnen identificeren. Wanneer een persoon verbinding maakt met internet, krijgt zijn computer een adres toegewezen uit een pool die door de internetprovider is gereserveerd voor zijn klanten. Wanneer jij een websiteadres typt - zoals Google.com  wordt die domeinnaam omgezet in het IP-adres van de server die de website host. De server gebruikt het openbare IP-adres van de computer om te weten waar de gevraagde sitepagina naartoe moet worden gestuurd.
+
+- Private (Privé) IP-adressen of RFC 1918 zijn adressen die niet routeerbaar zijn op het internet. Door deze beperking wordt het mogelijk de adressen te hergebruiken: verschillende netwerken kunnen binnen het eigen netwerk dezelfde IP-adressen gebruiken. Hierdoor wordt het gebruik van publieke IPv4-adressen verminderd. Om computers (of andere apparaten) die geconfigureerd zijn met een RFC 1918-adres toch gebruik te laten maken van het internet, wordt er tussen het privénetwerk en het internet een network address translation (NAT)-router geplaatst die de RFC 1918-adressen vertaalt in een publiek IP-adres. Op deze manier kan een groot aantal computers één of enkele IP-adressen delen.
+
+## NAT (Network Address Translation)
+
+Wat is NAT ?
+
+NAT 'Network Address Translation' is een verzamelnaam voor technieken die gebruikt worden in computernetwerken waarbij de adresinformatie in de datapakketjes veranderd wordt (Private naar Public en Public naar Private). Zodoende kunnen verschillende netwerken aan elkaar worden verbonden. De techniek wordt hoofdzakelijk in routers ingezet.
+
+![image](https://user-images.githubusercontent.com/89514322/146917587-0ffe7442-41a6-4ba6-9eed-53901f0a59f5.png)
+
 
 ## Benodigdheden:
 
