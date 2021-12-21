@@ -44,9 +44,9 @@ Wat zijn Public en Privare IPs ?
 Er zijn 3 IP adres bereiken gereserveerd voor privé netwerken. Iedereen gebruikt één van deze netwerken thuis of op werk. 
 
 Deze zijn:
-192.168.0.0 - 192.168.255.255
-172.16.0.0 - 172.31.255.255
-10.0.0.0 - 10.255.255.255
+- 192.168.0.0 - 192.168.255.255
+- 172.16.0.0 - 172.31.255.255
+- 10.0.0.0 - 10.255.255.255
 
 ## NAT (Network Address Translation)
 
