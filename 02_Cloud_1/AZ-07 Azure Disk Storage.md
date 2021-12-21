@@ -40,3 +40,5 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/disks-types
 https://docs.microsoft.com/nl-nl/azure/virtual-machines/managed-disks-overview
 
 ### Ervaren problemen
+
+<img width="1060" alt="Screen Shot 2021-12-20 at 15 52 19" src="https://user-images.githubusercontent.com/89514322/146876323-f7b33784-19aa-4ede-ac23-9c2923fb7660.png">
