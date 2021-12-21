@@ -35,9 +35,18 @@ Je cloud omgeving
 
 ## Opdracht:
 
-Ontdek wat je publieke IP adres is van je laptop en mobiel op wifi
-Ontdek wat je publieke IP adres is op je mobiel via mobiel internet (als mogelijk)
-Maak een VM in je cloud met een publiek IP. Maak verbinding met deze VM.
-Verwijder het publieke IP adres van je VM. Begrijp wat er gebeurt met je verbinding.
+### Ontdek wat je publieke IP adres is van je laptop en mobiel op wifi 
+
+Macbook 192.168.178.130
+
+Iphone  192.168.178.87
+
+### Ontdek wat je publieke IP adres is op je mobiel via mobiel internet (als mogelijk)
+
+Iphone  109.36.139.82 
+
+### Maak een VM in je cloud met een publiek IP. Maak verbinding met deze VM.
+
+### Verwijder het publieke IP adres van je VM. Begrijp wat er gebeurt met je verbinding.
 
 Vergeet niet de VMs te verwijderen en alle extra resources te verwijderen nadat je klaar bent.
