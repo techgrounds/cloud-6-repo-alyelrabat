@@ -27,6 +27,14 @@ IPv4 en IPv6
 Public en Private IPs
 NAT
 
+## IPV6
+
+Wat is IPv6?
+
+Internet Protocol versie 6 (IPv6) is een bijgewerkte standaard voor de identificatie van computers op internet. Net als bij IPv4 wordt met dit protocol aan elk apparaat een uniek id toegewezen, met de nodige aanpassingen in verband met het toenemende aantal computers dat vandaag de dag met internet verbonden is.
+
+IPv6 verhoogt het aantal mogelijke IP-adressen van die 4 miljard bij IPv4 tot 340 sextiljoen (een getal van 39 cijfers). IPv6 wordt geschreven als een 128-bits hexadecimale cijferreeks en een typisch IPv6-adres ziet er ongeveer zo uit: 2001:0ab8:85a2:0000:0000:8a3e:0370:7334
+
 ## Benodigdheden:
 
 Je laptop
