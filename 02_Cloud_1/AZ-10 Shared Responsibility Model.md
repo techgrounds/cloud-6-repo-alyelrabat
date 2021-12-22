@@ -14,6 +14,25 @@ De Cloud provider extra biedt extra services aan waarmee je je eigen verantwoord
 
 Het Azure Shared Responsibility model
 
+# Azure Shared Responsibility (Verantwoordelijkheidsverdeling) model 
+
+In een on-premises datacenter bent u eigenaar van de hele stack. Wanneer u overstapt naar de cloud, worden sommige verantwoordelijkheden overdragen naar Microsoft. In het volgende diagram ziet u de verantwoordelijkheidsgebieden tussen u en Microsoft, afhankelijk van het type implementatie van uw stack.
+
+![image](https://user-images.githubusercontent.com/89514322/147071569-2b9068cc-2eeb-4cd7-bdbd-b56a655e47a3.png)
+
+Voor elk type cloudimplementatie bent u eigenaar van uw gegevens en identiteiten. U bent verantwoordelijk voor het beveiligen van de beveiliging van uw gegevens en identiteiten, on-premises resources en de cloudonderdelen die u controleert (afhankelijk van het servicetype).
+
+Ongeacht het type implementatie worden de volgende verantwoordelijkheden altijd door u bewaard:
+
+- Gegevens
+
+- Eindpunten
+
+- Account
+
+- Toegangsbeheer
+
+
 
 
 
