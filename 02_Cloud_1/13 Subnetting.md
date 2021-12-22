@@ -28,6 +28,5 @@ Maak een netwerkarchitectuur die voldoet aan de volgende eisen:
 
 Plaats de architectuur die je hebt gemaakt inclusief een korte uitleg in de Github repository die je met de learning coach hebt gedeeld.
 
-Zie hier een voorbeeld van hoe je een netwerkarchitectuur kan visualiseren:
+<img width="466" alt="Screen Shot 2021-12-22 at 09 36 37" src="https://user-images.githubusercontent.com/89514322/147062257-7f9f712c-16f1-411c-925d-a995690ea8ba.png">
 
-<img width="554" alt="Screen Shot 2021-12-21 at 14 42 47" src="https://user-images.githubusercontent.com/89514322/146939910-d23a36e8-ac63-448a-8445-41a4b7b4cb81.png">
