@@ -1,5 +1,8 @@
 # Azure Core Services
 
+![image](https://user-images.githubusercontent.com/89514322/147070678-2a3faa4e-a0d1-47ca-81bd-82cfc6ba7275.png)
+
+
 ## Introductie:
 
 Je kan dit document zien als een soort gids naar je AZ-900 certificering. Hierin staan de services die je in wat meer detail moet kennen. Ook beschrijft dit document hoe je moet omgaan met de andere services die je in het (oefen)examen tegen kan komen.
