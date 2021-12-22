@@ -37,6 +37,9 @@ Naast de services kan je ook vragen verwachten over verschillende cloud concepte
 Bestudeer:
 Het Skills Measured document voor Microsoft Azure Fundamentals (AZ-900_)
 
+![image](https://user-images.githubusercontent.com/89514322/147070197-169c69bd-5e29-4bea-a9a6-631240fcbf4c.png)
+
+
 
 https://docs.microsoft.com/nl-nl/learn/paths/az-900-describe-core-azure-services/
 
