@@ -64,4 +64,5 @@ Voeg een VM toe bij 75% CPU gebruik
 Verwijder een VM bij 30% CPU gebruik
 
 
-<img width="1415" alt="Screen Shot 2021-12-22 at 11 24 28" src="https://user-images.githubusercontent.com/89514322/147078034-3a1bd5b7-33a1-4952-8622-d6daf4d1cff7.png">
+<img width="513" alt="Screen Shot 2021-12-22 at 21 06 05" src="https://user-images.githubusercontent.com/89514322/147149273-efb064da-a552-4aa2-9822-144584cf0996.png">
+
