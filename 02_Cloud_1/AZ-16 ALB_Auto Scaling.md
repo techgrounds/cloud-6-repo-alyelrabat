@@ -1,5 +1,31 @@
 ## Opdracht 1:
 
+Load balancers perform many functions in addition to just splitting traffic across servers:
+
+- HTTP reverse proxy
+
+- Traffic and routing optimisation algorithms
+
+- Image caching (reducing web server load)
+
+- Content caching
+
+- Compression
+
+- Content switching and rewriting
+
+- SSL encryption/decryption (further reducing server load)
+
+- Single Sign-On (preventing users having to login when switched between servers)
+
+- GEO (GSLB) and DNS Failover
+
+- Cookie persistence
+
+- HTTP/2 Proxy
+
+- Web Application Firewall (WAF)
+
 Maak een Virtual Machine Scale Set met de volgende vereisten:
 
 Ubuntu Server 20.04 LTS - Gen1
