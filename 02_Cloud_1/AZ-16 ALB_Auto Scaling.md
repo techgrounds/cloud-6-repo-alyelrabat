@@ -66,3 +66,6 @@ Verwijder een VM bij 30% CPU gebruik
 
 <img width="513" alt="Screen Shot 2021-12-22 at 21 06 05" src="https://user-images.githubusercontent.com/89514322/147149273-efb064da-a552-4aa2-9822-144584cf0996.png">
 
+<img width="1435" alt="Screen Shot 2021-12-23 at 15 00 54" src="https://user-images.githubusercontent.com/89514322/147252992-5c072b3b-53e0-43a0-8dc8-36cf2f392dfc.png">
+
+<img width="886" alt="Screen Shot 2021-12-23 at 14 51 00" src="https://user-images.githubusercontent.com/89514322/147253031-307f4f07-772c-4feb-b43b-b62892b0b4eb.png">
