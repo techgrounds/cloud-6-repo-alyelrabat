@@ -58,13 +58,13 @@ NAT 'Network Address Translation' is een verzamelnaam voor technieken die gebrui
 
 ### Ontdek wat je publieke IP adres is van je laptop en mobiel op wifi 
 
-Macbook 192.168.178.130
+Macbook 192.168.xxx.xxx
 
-Iphone  192.168.178.87
+Iphone  192.168.xxx.xx
 
 ### Ontdek wat je publieke IP adres is op je mobiel via mobiel internet (als mogelijk)
 
-Iphone  109.36.139.82 
+Iphone  109.36.xxx.xx
 
 ### Maak een VM in je cloud met een publiek IP. Maak verbinding met deze VM.
 
