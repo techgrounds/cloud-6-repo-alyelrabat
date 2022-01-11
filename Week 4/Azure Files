@@ -1,19 +1,26 @@
 # Waar is Azure Files voor?
 
-Hoe past X / vervangt X in een klassieke setting?
-Hoe kan ik X combineren met andere diensten?
-Wat is het verschil tussen X en andere gelijksoortige diensten?
+Hoe past Azure Files / vervangt Azure Files in een klassieke setting?
+
+Hoe kan ik Azure Files combineren met andere diensten?
+
+Wat is het verschil tussen Azure Files en andere gelijksoortige diensten?
 
 Een handige lijst van taken die je praktisch moet kunnen:
+
 Waar kan ik deze dienst vinden in de console?
+
 Hoe zet ik deze dienst aan?
+
 Hoe kan ik deze dienst koppelen aan andere resources?
+
 Bestudeer:
-App Service 					/ Elastic Beanstalk
-Content Delivery Network (CDN) 		/ CloudFront
-Azure DNS 					/ Route53
+
+App Service 				
+Content Delivery Network (CDN) 
+Azure DNS 					
 Benodigdheden:
-Je Azure omgeving				/ AWS omgeving
+Je Azure omgeving			
 
 # Opdracht:
 
