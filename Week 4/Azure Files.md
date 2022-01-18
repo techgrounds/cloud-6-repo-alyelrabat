@@ -19,18 +19,17 @@ https://docs.microsoft.com/en-us/azure/storage/files/storage-files-quick-create-
 
 https://docs.microsoft.com/en-us/azure/storage/files/storage-files-planning
 
-# Create an Azure file share
+# Azure / Storage / Files
 
 ### Create a storage account via the Azure portal and select + Create a resource from the dashboard.
 
 ![image](https://user-images.githubusercontent.com/89514322/149903505-56207d38-54d7-488f-976d-46549d94def7.png)
 
-### To create a FileStorage storage account, ensure the Performance radio button is set to Premium and Fileshares is selected in the Premium account type.
+### Create a file share
 
-### After creating the FileStorage account, enable large files shares on an existing account.
+<img width="1437" alt="Screen Shot 2022-01-18 at 14 32 07" src="https://user-images.githubusercontent.com/89514322/149946873-8ea7ce21-61cb-4fa1-b59a-ebcad5b103da.png">
 
-<img width="1036" alt="Screen Shot 2022-01-18 at 10 15 29" src="https://user-images.githubusercontent.com/89514322/149907334-52c3508c-c913-4b18-a679-fa9e53e49411.png">
+# Create an SMB file share 
 
-
-
+### Create a File Storage account via the Azure portal and select + Create a resource from the dashboard.
 
