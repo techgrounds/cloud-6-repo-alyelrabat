@@ -19,6 +19,18 @@ https://docs.microsoft.com/en-us/azure/storage/files/storage-files-quick-create-
 
 https://docs.microsoft.com/en-us/azure/storage/files/storage-files-planning
 
+# Azure File Sync
+
+Azure File Sync allows you to extend your on-premises file shares into Azure. It works with your existing on-premises file shares to expand your storage capacity and provide redundancy in the cloud.
+You can access your on-premises file share with any supported file sharing protocol that Windows Server supports, like SMB, NFS, or FTPS.
+As for now it requires Windows Server 2012 R2 or later.
+
+![image](https://user-images.githubusercontent.com/89514322/150013444-45aa25d6-cbc2-4df4-8469-6863f7b8cc73.png)
+
+The diagram shows what happens when a user requests two files. File A is used frequently, so the entire file is available on the local file share. File B isn't used often, so the file is retrieved from the Azure file share.
+
+https://docs.microsoft.com/en-us/learn/modules/extend-share-capacity-with-azure-file-sync/2-what-azure-file-sync
+
 # Azure / Storage / Files
 
 ### Create a storage account via the Azure portal and select + Create a resource from the dashboard.
