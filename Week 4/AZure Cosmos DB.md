@@ -1,4 +1,8 @@
-# Waar is Azure Cosmos DB voor?
+# Azure Cosmos DB ![image](https://user-images.githubusercontent.com/89514322/150137830-d7add298-d073-4a87-9768-32378f287676.png)
+
+
+Azure Cosmos DB is a fast NoSQL database service for modern app development at any scale.
+
 
 Hoe past Azure Cosmos DB / vervangt Azure Cosmos DB in een klassieke setting?
 
