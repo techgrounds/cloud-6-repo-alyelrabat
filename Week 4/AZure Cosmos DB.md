@@ -25,3 +25,5 @@ https://docs.microsoft.com/en-us/azure/cosmos-db/
 https://docs.microsoft.com/en-us/azure/cosmos-db/introduction
 
 https://docs.microsoft.com/en-us/azure/cosmos-db/sql/create-cosmosdb-resources-portal
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jvgh64rvdXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
