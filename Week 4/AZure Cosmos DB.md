@@ -14,6 +14,11 @@ Multiple accounts are used to manage different facets of the solution such as th
 
 In this example, a user is using a URL to access a web site in their browser. The URL points to Azure Traffic Manager, which then uses a built-in algorithm to determine which Azure App Service endpoint to redirect the user to. Since Azure Cosmos DB SQL API is capable of global distribution, you only need one account that is replicated across multiple regions.
 
+## My Container instance
+
+<img width="1432" alt="Screen Shot 2022-01-20 at 11 37 30" src="https://user-images.githubusercontent.com/89514322/150322872-f8f50cfb-6d56-4b26-bace-1cc6432812a0.png">
+
+
 
 https://docs.microsoft.com/en-us/azure/cosmos-db/
 
