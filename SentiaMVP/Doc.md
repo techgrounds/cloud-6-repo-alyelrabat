@@ -21,3 +21,22 @@ the engineering aspect of cloud infrastructure
 - One recovery vault as backup
 - Blob storage with a container holding the bootstrap script.
 - Keyvault for encryptions
+
+
+![Bicep Architecture V1 0](https://user-images.githubusercontent.com/89514322/162254312-48664c1c-295a-4555-afe4-1f61efdba48a.png)
+
+
+![Schermopname (5)](https://user-images.githubusercontent.com/89514322/162254328-3cae2d03-cf87-4176-a5fc-1dc68d657266.png)
+
+# Project Version 1.1
+
+## Main Project 1.0 Resources
+
+- VNETs (2) peered with two seperate subnets protected by NSGs.
+- Two separate VMs one Linux and one Windows.
+- The two VMs operate separetly in one of the two subnets.
+- Encrypted disks for the VMs
+- Linux os is for the webserver and Windows os is for the adminserver.
+- One recovery vault as backup
+- Blob storage with a container holding the bootstrap script.
+- Keyvault for encryptions
