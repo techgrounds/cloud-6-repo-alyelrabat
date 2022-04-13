@@ -33,7 +33,7 @@ the engineering aspect of cloud infrastructure
 
 ## Main project 1.1 resources and new protocols
 
-- VNETs (2) peered with two seperate subnets protected by NSGs.
+- VNETs (2) peered with three seperate subnets protected by NSGs.
 - Two separate VMs one VMSS Linux and one Windows.
 - Appgateway/Loadbalancer.
 - Http translation to Https.
